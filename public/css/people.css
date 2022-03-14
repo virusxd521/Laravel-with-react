@@ -1,0 +1,13 @@
+.people__div {
+    margin: 10px auto;
+    border: 2px solid black;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+
+.people__div * {
+    margin: 0 auto;
+}
+
